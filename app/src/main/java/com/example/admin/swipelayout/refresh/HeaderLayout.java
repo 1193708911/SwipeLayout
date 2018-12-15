@@ -67,9 +67,6 @@ public class HeaderLayout extends RelativeLayout implements SwipeRefreshTrigger,
 
     @Override
     public void onRelease() {
-//        if (!mAnimationDrawable.isRunning()) {
-//            mAnimationDrawable.start();
-//        }
     }
 
     @Override

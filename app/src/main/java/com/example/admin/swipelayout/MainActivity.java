@@ -54,7 +54,12 @@ public class MainActivity extends AppCompatActivity {
         mSwipeToLoadLayout.setOnLoadMoreListener(new OnLoadMoreListener() {
             @Override
             public void onLoadMore() {
-                clearLoadLayoutState();
+                new Handler().postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        clearLoadLayoutState();
+                    }
+                }, 2000);
             }
         });
 
@@ -62,7 +67,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void clearLoadLayoutState() {
         mSwipeToLoadLayout.setRefreshCompleteDelayDuration(1000);
-        mSwipeToLoadLayout.setLoadMoreCompleteDelayDuration(650);
+        mSwipeToLoadLayout.setLoadMoreCompleteDelayDuration(0);
+        mSwipeToLoadLayout.setLoadingMore(false);
         mSwipeToLoadLayout.setRefreshing(false);
     }
 }
