@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item
+        android:drawable="@drawable/nl_stat_3_1_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_2_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_3_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_4_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_5_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_6_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_7_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_8_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_9_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_10_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_11_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_12_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_13_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_14_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_15_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_16_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_17_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_18_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_19_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_20_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_21_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_22_2x"
+        android:duration="30" />
+    <item
+        android:drawable="@drawable/nl_stat_3_23_2x"
+        android:duration="30" />
+    <item
+        android:drawable="@drawable/nl_stat_3_24_2x"
+        android:duration="30" />
+    <item
+        android:drawable="@drawable/nl_stat_3_25_2x"
+        android:duration="30" />
+    <item
+        android:drawable="@drawable/nl_stat_3_26_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_27_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_28_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_29_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_30_2x"
+        android:duration="20" />
+    <item
+        android:drawable="@drawable/nl_stat_3_31_2x"
+        android:duration="20" />
+
+</animation-list>
